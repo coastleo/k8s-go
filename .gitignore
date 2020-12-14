@@ -1,0 +1,4 @@
+deployment.yaml
+*.swp
+*.swo
+kind
